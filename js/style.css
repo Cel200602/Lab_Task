@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+.strike{
+    text-decoration: line-through;
+}
+.delete-Btn{
+    font-family: arial,sans-serif;
+    margin: 10px;
+}
